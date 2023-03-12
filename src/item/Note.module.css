@@ -1,0 +1,52 @@
+.note {
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 250px;
+    width:300px;
+    padding: 7px;
+    background-color: lightblue;
+    box-shadow: 2px 2px 5px 2px #cacaca;
+}
+
+.noteheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    height: 50px;
+}
+
+.notetitle {
+    margin-bottom: 7px;
+}
+
+.title_content {
+    font-size: 18px;
+    width: 230px;
+    height: 30px;
+    overflow: scroll;
+}
+
+.textareahead {
+    font-size: 18px;
+    width: 230px;
+    height: 30px;
+}
+.text_content {
+    font-size: 18px;
+    width: 293px;
+    height: 183px;
+    overflow-y: scroll;
+}
+
+.textareacontent {
+    font-size: 18px;
+    width: 293px;
+    height: 183px;
+    white-space: pre-line;
+}
+
+.noactive {
+    display: none;
+}
+

@@ -1,0 +1,12 @@
+.notes {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding-bottom: 100px;
+}
+
+.wrap {
+    padding-bottom: 40px;
+}
